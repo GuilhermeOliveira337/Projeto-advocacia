@@ -127,10 +127,4 @@ Desenvolvido por **Guilherme Oliveira** como projeto de prática de desenvolvime
 
 ---
 
-## 📄 Licença
-
-Este projeto é de uso educacional e de portfólio. As imagens utilizadas são provenientes do [Unsplash](https://unsplash.com) e estão sujeitas às licenças próprias da plataforma.
-
----
-
 <p align="center">Feito com ❤️ e muito ☕ por Guilherme Oliveira</p>
